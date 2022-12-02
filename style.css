@@ -6,8 +6,9 @@ body {
     flex-direction: column;
 }
 
-header {
-    min-height: 25%;
+footer {
+    font-size: 30px;
+    text-align: center;
 }
 
 .content {
@@ -18,7 +19,7 @@ header {
     justify-content: center;
     align-items: center;
 
-    min-height: 900px;
+    padding: 11em;
 }
 
 .calc-wrapper {
